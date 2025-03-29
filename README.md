@@ -1,1 +1,1 @@
-# Numerical-Method---Equity-Derivatives-Pricing
+# Numerical_Method_Digital_Price_Option
